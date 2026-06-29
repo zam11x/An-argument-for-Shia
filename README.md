@@ -151,7 +151,7 @@ So The Prophet (s) came to him in a dream and gave news of rain. \
 
 ## Latmiya
 
-Some people hurt themselves to "honor" The Ahlul Bait. This is absolutely haram. These people are a disgrace to The Ahlul Bait! However, acts that do not cause harm, like lightly beating on your chest, this is not haram, and it's your choice to engage in it or to leave it.
+Some people hurt themselves and think they're "honoring" The Ahlul Bait. This is absolutely haram! However, acts that do not cause harm, like lightly beating on your chest, this is not haram, and it's your choice to engage in it or to leave it.
 
 ## Rank of the Imams
 
