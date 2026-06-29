@@ -1,4 +1,4 @@
-[Switch to English — ترجمه انگلیسی](../english)
+[Switch to English — ترجمه انگلیسی](../english/README.md)
 
 # مقدمه
 
