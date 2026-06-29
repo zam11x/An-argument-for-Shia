@@ -160,7 +160,7 @@ The Prophet (s) took Ali, Fatima, Hasan and Husain with him. \
 `Sunan Tirmidhi 2999` \
 `Tafsir Durr ul-Manthur, vol 2, page 231 & 233`
 
-Hasan and Husain were "our sons", Fatima was "our women", but what about Ali? He was neither a son of The Prophet (s) nor his "women", indeed, he was "ourselves". He was the self of The Prophet of Allah (s). If The Prophet (s) is better than any other prophet, then so is his "self", Ali. But you might wonder, if he was so virtuous, why didn't Allah make him a prophet? That's because a prophet is someone who completes what prophets before him have brought, and there was no imperfection in the religion of our beloved Prophet (s). Allah blessed Ali with the rank of an "Imam", which is higher than the rank of prophethood. In verse 124 of Surah al-Baqara, we see that Ibrahim was promoted from the rank of a prophet, to an Imam:
+Hasan and Husain were "our sons", Fatima was "our women", but what about Ali? He was neither a son of The Prophet (s) nor his "women", indeed, he was "ourselves". He was the self of The Prophet of Allah (s). If The Prophet (s) is better than any other prophet, then so is his "self", Ali. But you might wonder, if he was so virtuous, why didn't Allah make him a prophet? Allah blessed Ali with the rank of an "Imam", which is higher than the rank of prophethood. In verse 124 of Surah al-Baqara, we see that Ibrahim was promoted from being just a prophet, to also being an Imam:
 
 "Ibrahim was tested by his lord with certain commandments, which he fulfilled, Allah said, surely, I will make you an Imam for the people."
 
@@ -220,10 +220,10 @@ The aforementioned narrations contain a fabrication about Ali swearing allegianc
 
 The Messenger of Allah (s) passed away, and Abu Bakr said I am the successor of The Messenger of Allah (s) so you came to him to request inheritance, and he rejected, you saw him as lying, sinful, deceiving, traitor, but Allah knows that he was a truthful, pure, guided, follower of truth, then Abu Bakr died and I (Umar) am the successor of The Messenger of Allah (s) and the successor of Abu Bakr, so you saw me as a lying, sinful, deceiving, traitor, but Allah knows that I am a truthful, pure, guided, follower of truth.
 
-And again, they fabricated about Ali agreeing with Umar. Sahih Bukhari says Ali swore allegiance to Abu Bakr, and Sahih Muslim says that Ali still saw the two of them as lying, sinful, deceiving, traitors at the time of Umar! Abu Bakr was dead at the time of Umar and Ali still considered the both of them that way! And then he supposedly changed his mind... Such contradictions show that Bukhari and Muslim have no authority.
+And again, they fabricated about Ali agreeing with Umar. Sahih Bukhari says Ali swore allegiance to Abu Bakr, and Sahih Muslim says that at the time of Umar, when Abu Bakr was dead, Ali still saw the two of them as lying, sinful, deceiving, traitors! And then he supposedly changed his mind... Such contradictions show that Bukhari and Muslim have no authority.
 
 And then when Uthman became the caliph, he GIFTED what was supposed to be the charity of our Prophet (s) to his cousin Marwan. \
 `As-Sunan al-Kubra, by Bayhaqi, vol 6, page 301` \
 `Tarikh Abul Fada', vol 1, page 168`
 
-You might wonder, why didn't Ali take it back when he became the caliph? The Messenger of Allah (s) did not take back what was stolen from the muslims when he conquered Mecca, and Ali did not take back what was stolen from his family when he reclaimed caliphate. Imam Kadhim says we are a family that avenge the people, not ourselves, Allah avenges us.
+You might wonder, why didn't Ali take it back when he became the caliph? The Messenger of Allah (s) did not take back what was stolen from the muslims when he conquered Mecca, and Ali did not take back what was stolen from his family when he reclaimed caliphate.
