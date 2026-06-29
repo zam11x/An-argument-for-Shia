@@ -22,7 +22,9 @@ If you have any questions, feel free to contact me! My Instagram is `@zam11x`.
 3. [Claims against Shi'a](#claims-against-shia)
     1. [Ya Husain](#ya-husain)
     2. [Latmiya](#latmiya)
-    3. [The Imams](#the-imams)
+    3. [Rank of the Imams](#rank-of-the-imams)
+    4. [Power of the Imams](#power-of-the-imams)
+    5. [Did Ali name after caliphs?](#did-ali-name-after-caliphs)
 4. [An argument for Shi'a](#an-argument-for-shia)
 
 # Examining The Quran
@@ -148,7 +150,7 @@ So The Prophet (s) came to him in a dream and gave news of rain. \
 
 Some people hurt themselves to "honor" The Ahlul Bait. This is absolutely haram. These people are a disgrace to The Ahlul Bait! However, acts that do not cause harm, like lightly beating on your chest, this is not haram, and it's your choice to engage in it or to leave it.
 
-## The Imams
+## Rank of the Imams
 
 Some say that we exaggerate the rank of The Ahlul Bait, such as The Imams being superior to every prophet except Muhammad (s). Let's take a look at this part of the verse of Mubahala, in Surah Aal Imran, verse 61:
 
@@ -162,7 +164,7 @@ Hasan and Husain were "our sons", Fatima was "our women", but what about Ali? He
 
 "Ibrahim was tested by his lord with certain commandments, which he fulfilled, Allah said, I will make you an Imam for the people."
 
----
+## Power of the Imams
 
 Another claim is that The Ahlul Bait having certain powers is an exaggeration. In verses 38 to 40 of Surah an-Naml we see that prophet Sulaiman asked those who were with him, who can bring him the throne of a queen who was on her way to meet him, before she arrives. A jinn said that he can do it before he gets up from his seat, but a man who had some knowledge of the book said I'll bring it before you can blink!
 
@@ -171,6 +173,56 @@ Verse 40: \
 
 This person had some knowledge of the book, now, can't The Prophet (s) do this when he has the full knowledge of the book? Or his self, Ali?
 
+## Did Ali name after caliphs?
+
+"Abu Bakr" is a kunia, not a name. The name of Abu Bakr ibn Abu Quhafa is Abdullah ibn Uthman. And the name of Abu Bakr ibn Ali is Muhammad Asghar.
+
+Umar used to rename a lot of people. He renamed "Ibrahim ibn Haarith" to Abdullah and "Ajda' ibn Maalik" to Abdurrahmaan. \
+`Al-Isaabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 1, page 330` \
+Umar renamed one of Ali's children to "Umar". \
+`Siyar A'lam an-Nubala, vol 4, page 134` \
+Even if we didn't know that it was Umar who renamed him, we still couldn't claim he was named out of love for the second caliph, as there were at least 21 "Umar"s among the Sahaba! \
+`Al-Isaabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 4, page 483`
+
+Ali named his son "Uthman" out of love "Uthman ibn Madh'un" who was killed in the battle of Badr during the lifetime of The Prophet (s). \
+`Tarikh Madina Damishq, vol 45, page 304` \
+Even if we didn't know that he was named after Ibn Madh'un, we still couldn't claim he was named out of love for the third caliph, as there were at least 26 "Uthman"s among the Sahaba! \
+`Al-Isaabah fi Tamyeez as-Sahaba, vol 4, page 370`
+
 # An argument for Shi'a
 
-...
+[As we established before](#surah-al-ahzab-verse-33), Fatima is infallible, and even if you disagree with that, there are still hadiths that show we should obey her:
+
+Fatima is from The Ahlul Bait. \
+`Sahih Muslim 2424`
+
+The Messenger of Allah (s) said: \
+Indeed, I leave among you, that which if you stick to, you will not go astray after me, one is greater than the other, the book of Allah, and my Ahlul Bait, and they will not split from each other until they meet me, so beware of how you treat the two of them after me. \
+`Tirmidhi 3788` (Grade: Sahih)
+
+The Prophet (s) told Fatima: \
+‎Allah is angered by your anger, and satisfied by your satisfaction. \
+`‎Mustadrak, vol 3, page 154`
+
+She did not approve of Abu Bakr:
+
+Fatima was angered by Abu Bakr and did not speak to him again until she died and she was buried secretly at night without informing Abu Bakr. \
+`Sahih Bukhari, 3092, 3093, 4240, 4241`
+
+Some sources claim that Fatima became pleased with Abu Bakr before her death, but that goes against the explicit word of Bukhari!
+
+Some claim that Ali angered Fatima as well, but that's a mere fabrication. When we Shi'as want to make you believe something, we will show you your own sources, so if you want to claim that Ali angered Fatima, show us a **sahih** narration from our books :)
+
+Sayyida Fatima is the first Rafidhi (rejector of Abu Bakr), and we are her followers, as The Prophet of Allah (s) told us to.
+
+The aforementioned narrations contain a fabrication about Ali swearing allegiance to Abu Bakr after the death of Fatima, this can be disproved easily, in Sahih Muslim 1757c we see:
+
+The Messenger of Allah (s) passed away, and Abu Bakr said I am the successor of The Messenger of Allah (s) so you came to him to request inheritance, and he rejected, you saw him as lying, sinful, deceiving, traitor, but Allah knows that he was a truthful, pure, guided, follower of truth, then Abu Bakr died and I (Umar) am the successor of The Messenger of Allah (s) and the successor of Abu Bakr, so you saw me as a lying, sinful, deceiving, traitor, but Allah knows that I am a truthful, pure, guided, follower of truth.
+
+And again, they fabricated about Ali agreeing with Umar. Sahih Bukhari says Ali swore allegiance to Abu Bakr, and Sahih Muslim says that Ali still saw the two of them as lying, sinful, deceiving, traitors at the time of Umar! Abu Bakr was dead at the time of Umar and Ali still considered the both of them that way! And then he supposedly changed his mind... Such contradictions show that Bukhari and Muslim have no authority.
+
+And then when Uthman became the caliph, he GIFTED what was supposed to be the charity of our Prophet (s) to his cousin Marwan. \
+`As-Sunan al-Kubra, by Bayhaqi, vol 6, page 301` \
+`Tarikh Abul Fada', vol 1, page 168`
+
+You might wonder, why didn't Ali take it back when he became the caliph? The Messenger of Allah (s) did not take back what was stolen from the muslims when he conquered Mecca, and Ali did not take back what was stolen from his family when he reclaimed caliphate. Imam Kadhim says we are a family that avenge the people, not ourselves, Allah avenges us.
