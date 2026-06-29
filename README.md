@@ -1,4 +1,4 @@
-[Switch to Farsi — ترجمه فارسی](#)
+[Switch to Farsi — ترجمه فارسی](../farsi/README.md)
 
 # Intro
 
