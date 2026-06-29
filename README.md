@@ -59,7 +59,7 @@ Allah wants everyone to be purified, that's why he sent so many prophets, teachi
 The Quran itself shows that the infallible Ahlul Bait are not the wives. Surah al-Ahzab is "makki", meaning it was revealed before hijra, Surah at-Tahreem is "madani", meaning it was revealed after hijra, in the latter surah, Allah tells two of the wives that their wives have swayed (verse 4), which is not a possibility for someone who became infallible before the hijra. The Quran does not name The Ahlul Bait, but sahih hadiths do:
 
 The Ahlul Bait are Ali, Fatima, Hasan and Husain. \
-`Sahih Muslim, vol 7, page 130` \
+`Sahih Muslim 2424` \
 `Tirmidhi, vol 5, page 351` \
 `Mustadrak alas-Sahihain, vol 3, page 147`
 
