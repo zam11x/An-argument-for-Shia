@@ -90,7 +90,7 @@ So we don't know who this verse includes, but one thing is clear, Allah doesn't 
 
 ### Surah al-Fat'h, verse 29
 
-"Muhammad is the messenger of Allah, and those are with him are firm with the disbelievers and kind among themselves. You see them in constant ruku' and sujud, wishing a virtue from Allah and his satisfaction."
+"Muhammad is the messenger of Allah, and those are with him are firm with disbelievers and kind among themselves. You see them in constant ruku' and sujud, wishing a virtue from Allah and his satisfaction."
 
 Firstly, this verse does not specify physical proximity, it could be spiritual. In fact, there's evidence against the former:
 
@@ -114,7 +114,7 @@ Sure, you could say it is not required to pray if there's no water, but it still
 
 "Those who believed, and migrated and fought in the path of Allah, and those who took in (the Muhajirin) and helped, they are the true believers."
 
-The first quality that Allah mentioned is believing, which not all of the Sahaba had:
+The first quality that Allah mentioned is believing, which not all of the Sahaba had. As we mentioned before:
 
 "There are 12 hypocrites among my Sahaba, 8 of them will not go to heaven." \
 `Sahih Muslim 2779`
@@ -162,7 +162,7 @@ The Prophet (s) took Ali, Fatima, Hasan and Husain with him. \
 
 Hasan and Husain were "our sons", Fatima was "our women", but what about Ali? He was neither a son of The Prophet (s) nor his "women", indeed, he was "ourselves". He was the self of The Prophet of Allah (s). If The Prophet (s) is better than any other prophet, then so is his "self", Ali. But you might wonder, if he was so virtuous, why didn't Allah make him a prophet? That's because a prophet is someone who completes what prophets before him have brought, and there was no imperfection in the religion of our beloved Prophet (s). Allah blessed Ali with the rank of an "Imam", which is higher than the rank of prophethood. In verse 124 of Surah al-Baqara, we see that Ibrahim was promoted from the rank of a prophet, to an Imam:
 
-"Ibrahim was tested by his lord with certain commandments, which he fulfilled, Allah said, I will make you an Imam for the people."
+"Ibrahim was tested by his lord with certain commandments, which he fulfilled, Allah said, surely, I will make you an Imam for the people."
 
 ## Power of the Imams
 
