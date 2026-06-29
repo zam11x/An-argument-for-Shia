@@ -2,7 +2,7 @@
 
 # Intro
 
-Before getting started, some claim that Shi'as do "taqiya", lying about beliefs, to spread Shi'a. This doesn't hold up logically, if Shi'as believe in A, B, and C, and I tell you that we believe in X, Y, and Z, then even if you start believing X, Y, and Z, you still have not become a Shi'a, because our actual beliefs are A, B, and C. Actual "taqiya" is hiding your beliefs to prevent getting killed which Ahl Sunnah believe in as well.
+Before getting started, some claim that Shi'as do "taqiya", lying about beliefs, to spread Shi'a. This doesn't hold up logically, if Shi'as believe in A, B, and C, and I tell you that we believe in X, Y, and Z, then even if you start believing X, Y, and Z, you still have not become a Shi'a, because our actual beliefs are A, B, and C, which you still do not believe in. Actual "taqiya" is hiding your beliefs to prevent getting killed which Ahl Sunnah believe in as well.
 
 First, we will examine the claim that The Quran points to Ahl Sunnah, then we will examine the claims that Shi'as are disbelievers, then we will present the argument for Shi'a.
 
