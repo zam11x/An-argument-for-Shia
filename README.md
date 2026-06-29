@@ -68,7 +68,8 @@ The Ahlul Bait are Ali, Fatima, Hasan and Husain. \
 `Mustadrak ala as-Sahihain, vol 3, page 147`
 
 Umm Salama asked The Prophet (s), "Am I among you Ahlul Bait", to which he responded "You're on the path of good." \
-`Tirmidhi, vol 5, page 351`
+`Tirmidhi, vol 5, page 351` \
+The Prophet (s) told her the truth without hurting her feelings.
 
 ## The Sahaba
 
