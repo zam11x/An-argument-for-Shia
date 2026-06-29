@@ -63,7 +63,7 @@ The Quran itself shows that the infallible Ahlul Bait are not the wives. Surah a
 The Ahlul Bait are Ali, Fatima, Hasan and Husain. \
 `Sahih Muslim 2424` \
 `Tirmidhi, vol 5, page 351` \
-`Mustadrak alas-Sahihain, vol 3, page 147`
+`Mustadrak ala as-Sahihain, vol 3, page 147`
 
 Umm Salama asked The Prophet (s), "Am I among you Ahlul Bait", to which he responded "You're on the path of good." \
 `Tirmidhi, vol 5, page 351`
@@ -108,11 +108,11 @@ Umar said that if I don't find water, I will not pray. \
 Allah says that if you don't find water, use clean dirt. \
 `Surah an-Nisa', verse 43`
 
-Sure, you could say it is not required to pray if there's no water, but it still disqualifies Umar from those who are constant in their ruku' and sujud!
+Sure, you could say it is not required to pray if there's no water, but it still disqualifies Umar from those who are constant in their ruku' and sujud, which is the description of those who are with The Messenger of Allah (s).
 
 ### Surah al-Anfal, verse 74
 
-"Those who believed, and migrated and fought in the path of Allah, and those who took in (the Muhajirin) and helped, they are the true believers."
+"Those who believed, and migrated and fought in the path of Allah, and those who gave shelter and helped, they are the true believers."
 
 The first quality that Allah mentioned is believing, which not all of the Sahaba had. As we mentioned before:
 
@@ -178,16 +178,16 @@ This person had some knowledge of the book, now, can't The Prophet (s) do this w
 "Abu Bakr" is a kunia, not a name. The name of Abu Bakr ibn Abu Quhafa is Abdullah ibn Uthman. And the name of Abu Bakr ibn Ali is Muhammad Asghar.
 
 Umar used to rename a lot of people. He renamed "Ibrahim ibn Haarith" to Abdullah and "Ajda' ibn Maalik" to Abdurrahmaan. \
-`Al-Isaabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 1, page 330` \
+`Al-Isabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 1, page 330` \
 Umar renamed one of Ali's children to "Umar". \
 `Siyar A'lam an-Nubala, vol 4, page 134` \
 Even if we didn't know that it was Umar who renamed him, we still couldn't claim he was named out of love for the second caliph, as there were at least 21 "Umar"s among the Sahaba! \
-`Al-Isaabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 4, page 483`
+`Al-Isabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 4, page 483`
 
 Ali named his son "Uthman" out of love "Uthman ibn Madh'un" who was killed in the battle of Badr during the lifetime of The Prophet (s). \
 `Tarikh Madina Damishq, vol 45, page 304` \
 Even if we didn't know that he was named after Ibn Madh'un, we still couldn't claim he was named out of love for the third caliph, as there were at least 26 "Uthman"s among the Sahaba! \
-`Al-Isaabah fi Tamyeez as-Sahaba, vol 4, page 370`
+`Al-Isabah fi Tamyeez as-Sahaba, vol 4, page 370`
 
 # An argument for Shi'a
 
@@ -202,7 +202,8 @@ Indeed, I leave among you, that which if you stick to, you will not go astray af
 
 The Prophet (s) told Fatima: \
 ‎Allah is angered by your anger, and satisfied by your satisfaction. \
-`‎Mustadrak, vol 3, page 154`
+`‎Mustadrak, vol 3, page 154` \
+This is only possible if she is immune to misjudgements.
 
 She did not approve of Abu Bakr:
 
