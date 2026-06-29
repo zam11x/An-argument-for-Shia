@@ -8,22 +8,22 @@ If you have any questions, feel free to contact me! My Instagram is `@zam11x`.
 
 # Table of contents
 
-1. [Examining The Quran](#examining-the-quran)
-    1. [The wives](#the-wives)
-        1. *[Surah al-Ahzab, verse 6](#)*
-        2. *[Surah al-Ahzab, verse 32](#)*
-        3. *[Surah al-Ahzab, verse 33](#)*
-    2. [The Sahaba](#the-sahaba)
-        1. *[Surah al-Anfal, verse 11](#)*
-        2. *[Surah at-Taubah, verse 100](#)*
-        3. *[Surah al-Fat'h, verse 29](#)*
-        4. *[Surah al-Anfal, verse 74](#)*
-        5. *[Surah al-Fat'h, verse 18](#)*
-2. *[Claims against Shi'a](#)*
-    1. [Ya Husain](#ya-husain)
-    2. [Latmiya](#latmiya)
-    3. [The Imams](#the-imams)
-3. *[An argument for Shi'a](#)*
+1\. [Examining The Quran](#examining-the-quran)
+    1\. [The wives](#the-wives)
+        1\. [Surah al-Ahzab, verse 6](#surah-al-ahzab-verse-6)
+        2\. [Surah al-Ahzab, verse 32](#surah-al-ahzab-verse-32)
+        3\. [Surah al-Ahzab, verse 33](#surah-al-ahzab-verse-33)
+    2\. [The Sahaba](#the-sahaba)
+        1\. [Surah al-Anfal, verse 11](#surah-al-anfal-verse-11)
+        2\. [Surah at-Tauba, verse 100](#surah-at-tauba-verse-100)
+        3\. [Surah al-Fat'h, verse 29](#surah-al-fath-verse-29)
+        4\. [Surah al-Anfal, verse 74](#surah-al-anfal-verse-74)
+        5\. [Surah al-Fat'h, verse 18](#surah-al-fath-verse-18)
+3\. [Claims against Shi'a](#claims-against-shia)
+    1\. [Ya Husain](#ya-husain)
+    2\. [Latmiya](#latmiya)
+    3\. [The Imams](#the-imams)
+4\. [An argument for Shi'a](#an-argument-for-shia)
 
 # Examining The Quran
 
@@ -76,7 +76,7 @@ Some argue that Allah is purifying the Sahaba the same way he purified The Ahlul
 
 And considering that the Sahaba are not among The Ahlul Bait, the purification of the Sahaba is just like the purification of any other regular person.
 
-### Surah at-Taubah, verse 100
+### Surah at-Tauba, verse 100
 
 "The best, the first, from the Muhajirin and Ansar, and those who obeyed them well, Allah is pleased with them, and they are pleased with him."
 
@@ -167,9 +167,9 @@ Hasan and Husain were "our sons", Fatima was "our women", but what about Ali? He
 Another claim is that The Ahlul Bait having certain powers is an exaggeration. In verses 38 to 40 of Surah an-Naml we see that prophet Sulaiman asked those who were with him, who can bring him the throne of a queen who was on her way to meet him, before she arrives. A jinn said that he can do it before he gets up from his seat, but a man who had some knowledge of the book said I'll bring it before you can blink!
 
 Verse 40: \
-"A person who had a knowledge from the book said: I will bring it to you in the blink of an eye."
+"A person who had a knowledge from the book said: I will bring it to you before you can blink."
 
-This person had some knowledge of the book, now can't The Prophet (s) do this when he has the full knowledge of the book? Or his self, Ali?
+This person had some knowledge of the book, now, can't The Prophet (s) do this when he has the full knowledge of the book? Or his self, Ali?
 
 # An argument for Shi'a
 
