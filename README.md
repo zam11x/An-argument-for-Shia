@@ -1,4 +1,4 @@
-[Switch to English — ترجمه انگلیسی](test)
+[Switch to English — ترجمه انگلیسی](../english)
 
 # مقدمه
 
