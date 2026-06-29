@@ -155,7 +155,7 @@ Some people hurt themselves to "honor" The Ahlul Bait. This is absolutely haram.
 
 ## Rank of the Imams
 
-Some say that we exaggerate the rank of The Ahlul Bait, such as The Imams being superior to every prophet except Muhammad (s). Let's take a look at this part of the verse of Mubahala, in Surah Aal Imran, verse 61:
+Some say that we exaggerate the rank of The Ahlul Bait, such as The Imams being superior to every prophet except Muhammad (s). Let's take a look at the verse of Mubahala, in Surah Aal Imran, verse 61:
 
 "Bring our sons, and your sons, and our women and your women, and ourselves and yourselves."
 
