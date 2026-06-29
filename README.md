@@ -8,21 +8,21 @@ If you have any questions, feel free to contact me! My Instagram is `@zam11x`.
 
 # Table of contents
 
-1\. [Examining The Quran](#examining-the-quran)
-    1\. [The wives](#the-wives)
-        1\. [Surah al-Ahzab, verse 6](#surah-al-ahzab-verse-6)
-        2\. [Surah al-Ahzab, verse 32](#surah-al-ahzab-verse-32)
-        3\. [Surah al-Ahzab, verse 33](#surah-al-ahzab-verse-33)
-    2\. [The Sahaba](#the-sahaba)
-        1\. [Surah al-Anfal, verse 11](#surah-al-anfal-verse-11)
-        2\. [Surah at-Tauba, verse 100](#surah-at-tauba-verse-100)
-        3\. [Surah al-Fat'h, verse 29](#surah-al-fath-verse-29)
-        4\. [Surah al-Anfal, verse 74](#surah-al-anfal-verse-74)
-        5\. [Surah al-Fat'h, verse 18](#surah-al-fath-verse-18)
-3\. [Claims against Shi'a](#claims-against-shia)
-    1\. [Ya Husain](#ya-husain)
-    2\. [Latmiya](#latmiya)
-    3\. [The Imams](#the-imams)
+1\. [Examining The Quran](#examining-the-quran) \
+    1\. [The wives](#the-wives) \
+        1\. [Surah al-Ahzab, verse 6](#surah-al-ahzab-verse-6) \
+        2\. [Surah al-Ahzab, verse 32](#surah-al-ahzab-verse-32) \
+        3\. [Surah al-Ahzab, verse 33](#surah-al-ahzab-verse-33) \
+    2\. [The Sahaba](#the-sahaba) \
+        1\. [Surah al-Anfal, verse 11](#surah-al-anfal-verse-11) \
+        2\. [Surah at-Tauba, verse 100](#surah-at-tauba-verse-100) \
+        3\. [Surah al-Fat'h, verse 29](#surah-al-fath-verse-29) \
+        4\. [Surah al-Anfal, verse 74](#surah-al-anfal-verse-74) \
+        5\. [Surah al-Fat'h, verse 18](#surah-al-fath-verse-18) \
+3\. [Claims against Shi'a](#claims-against-shia) \
+    1\. [Ya Husain](#ya-husain) \
+    2\. [Latmiya](#latmiya) \
+    3\. [The Imams](#the-imams) \
 4\. [An argument for Shi'a](#an-argument-for-shia)
 
 # Examining The Quran
