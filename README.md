@@ -1,229 +1,227 @@
-# Intro
+# مقدمه
 
-Before getting started, some claim that Shi'as do "taqiya", lying about beliefs, to spread Shi'a. This doesn't hold up logically, if Shi'as believe in A, B, and C, and I tell you that we believe in X, Y, and Z, then even if you start believing X, Y, and Z, you still have not become a Shi'a, because our actual beliefs are A, B, and C. Actual "taqiya" is hiding your beliefs to prevent getting killed which Ahl Sunnah believe in as well.
+برخی ادعا می کنند که شیعه تقیه می کنند و درباره عقائد خود دروغ می گویند تا مذهب شیعه را ترویج کنند، منطقاً چنین چیزی ممکن نیست، اگر من به شما درباره عقائد شیعه دروغ بگویم و شما به آن اعتقاد پیدا کنید، باز شیعه نشدید، چون به چیزی باور پیدا کردید که از عقائد ما نیست. تقیه واقعی پنهان کردن اعتقادات از ترس کشته شدن است.
 
-First, we will examine the claim that The Quran points to Ahl Sunnah, then we will examine the claims that Shi'as are disbelievers, then we will present the argument for Shi'a.
+اول این ادعا رو بررسی می کنیم که قرآن موافق عقائد اهل سنت است، بعد ادعا هایی علیه شیعه، و در آخر دلیلی بر حقانیت شیعه.
 
-If you have any questions, feel free to contact me! My Instagram is `@zam11x`.
+اگر سؤالی بود، اینستا من `zam11` هستش.
 
-# Table of contents
+# فهرست مطالب
 
-1. [Examining The Quran](#examining-the-quran)
-    1. [The wives](#the-wives) 
-        1. [Surah al-Ahzab, verse 6](#surah-al-ahzab-verse-6)
-        2. [Surah al-Ahzab, verse 32](#surah-al-ahzab-verse-32)
-        3. [Surah al-Ahzab, verse 33](#surah-al-ahzab-verse-33)
-    2. [The Sahaba](#the-sahaba)
-        1. [Surah al-Anfal, verse 11](#surah-al-anfal-verse-11)
-        2. [Surah at-Tauba, verse 100](#surah-at-tauba-verse-100)
-        3. [Surah al-Fat'h, verse 29](#surah-al-fath-verse-29) 
-        4. [Surah al-Anfal, verse 74](#surah-al-anfal-verse-74)
-        5. [Surah al-Fat'h, verse 18](#surah-al-fath-verse-18)
-3. [Claims against Shi'a](#claims-against-shia)
-    1. [Ya Husain](#ya-husain)
-    2. [Latmiya](#latmiya)
-    3. [Rank of the Imams](#rank-of-the-imams)
-    4. [Power of the Imams](#power-of-the-imams)
-    5. [Did Ali name after caliphs?](#did-ali-name-after-caliphs)
-4. [An argument for Shi'a](#an-argument-for-shia)
+1. [بررسی قرآن](#)
+    1. [همسران پیامبر](#)
+        1. [سوره احزاب، آیه 6](#)
+        2. [سوره احزاب، آیه 32](#)
+        3. [سوره احزاب، آیه 33](#)
+    2. [صحابه](#)
+        1. [سوره انفال، آیه 11](#)
+        2. [سوره توبه، آیه 100](#)
+        3. [سوره فتح، آیه 29](#)
+        4. [سوره انفال، آیه 24](#)
+        5. [سوره فتح، آیه 18](#)
+2. [ادعا هایی علیه شیعه](#)
+    1. [یا حسین](#)
+    2. [لطمیه](#)
+    3. [مقام ائمه](#)
+    4. [قدرت ائمه](#)
+    5. [آیا علی به نام خلفا نام‌گذاری کرد؟](#)
+3. [حقانیت شیعه](#)
 
-# Examining The Quran
+# بررسی قرآن
 
-## The wives
+## همسران پیامبر
 
-### Surah al-Ahzab, verse 6
+### سوره احزاب، آیه 6
 
-"And his wives are their mothers."
+« همسران او مادر هایشان هستند »
 
-This verse was revealed to forbid marriage with them. And as such, they are only mothers of the men, since a woman already can't marry another woman.
+این آیه بدین جهت نازل شد که حرمت ازدواج با آنها بعد از وفات پیامبر را نشان دهد. به همین سبب، همسران پیامبر فقط مادر مردان هستند، چون یک زن قبل از این نیز نمی توانست با زن دیگری ازدواج کند.
 
-A woman came to A'isha and called her mother, to which she said: \
-I am not your mother, but the mother of your men. \
-`At-Tabaqaat ul-Kubra, by Ibn Sa'd, vol 8, page 65`
+زنی پیش عائشه آمد و او را « مادر » خطاب کرد، عائشه گفت: \
+من مادر تو نیستم، بلکه مادر مردان شما هستم. \
+`الطبقات الکبری، از ابن سعد، ج 8، ص 65`
 
-### Surah al-Ahzab, verse 32
+### سوره احزاب، آیه 32
 
-"O women of The Prophet, you are unlike any women, if you fear (Allah)."
+«ای زنان پیامبر، شما مثل هیچ یک از زنان نیستید، اگر تقوا داشته باشید»
 
-Is it possible for them to not fear Allah? \
-Let's take a look at verse 4 of Surah at-Tahreem:
+اما همه‌ی زنان پیامبر تقوا نداشتند، در سوره تحریم، آیه 4، خداوند متعال می فرماید: \
+«(بهتر است) اگر توبه کنید، که قلب شما برگشته (از دین)، و اگر (یکدیگر را) علیه او کمک کنید، خدا یار اوست، و جبرئیل، و صالح مؤمنان، و بعد فرشتگان»
 
-"(It's better) if you two repent, as your hearts have swayed, and if you aid (each other) against him, then Allah is his aid and Jibreel and the righteous of believers, and thereafter the angels."
+در قرآن صحبتی از توبه‌ی این دو نفر از زنان پیامبر به میان نیامده.
 
-There is no Quran-based evidence of them repenting or not repenting.
+### سوره احزاب، آیه 33
 
-### Surah al-Ahzab, verse 33
+«خدا **فقط** شما اهل بیت را اراده کرده که پاک گرداند»
 
-"Allah wishes to ONLY remove impurity from you O Ahlul Bait, and purify you thoroughly."
+خدا همه را می‌خواهد پاک کند، و الا 124 هزار پیامبر نمی فرستاد، پس وقتی درباره اهل بیت کلمه « فقط » بکار رفته، بدین معناست که پاکی آنها خاص است، آنها به اذن خدا از هر گونه ناپاکی محفوظ اند و « معصوم » هستند. انکار خاص بودن پاک شدن اهل بیت، یعنی انکار حکمت خدا، که 124 هزار پیامبر فرستاد، که در نهایت به گروه اندکی بگوید من فقط پاکی شما رو می خواستم.
 
-Allah wants everyone to be purified, that's why he sent so many prophets, teaching people to live beautiful lives, so when he says he ONLY wants The Ahlul Bait to be purified, he's talking about a special purification, "infallibility". If you deny the infallibility of The Ahlul Bait, you're saying Allah sent so many prophets for no reason, which goes against the wisdom of Allah.
+خود قرآن نشان می‌دهد که این اهل بیت معصوم، همسسران پیامبر نیستند. این سوره، سوره احزاب، مکی است، یعنی قبل از هجرت نازل شده، سوره تحریم که دو نفر از زنان پیامبر را شدیداً توبیخ می کند، سوره‌ای مدنی است، یعنی بعد از هجرت نازل شده. خدا قبل از هجرت اهل بیت را معصوم گردانیده، و بعد از هجرت دو نفر از زنان پیامبر رو توبیخ و تهدید به طلاق می‌کند. ممکن نیست که آن اهل بیت معصوم، همسران پیامبر باشند.
 
-The Quran itself shows that the infallible Ahlul Bait are not the wives. Surah al-Ahzab is "makki", meaning it was revealed before hijra, Surah at-Tahreem is "madani", meaning it was revealed after hijra, in the latter surah, Allah tells two of the wives that their wives have swayed (verse 4), which is not a possibility for someone who became infallible before the hijra. The Quran does not name The Ahlul Bait, but sahih hadiths do:
+قرآن اسم نبرده که اهل بیت واقعی چه کسانی هستند، اما در منابع معتبر اهل سنت اسامی آنها آمده. آنان علی، فاطمه، حسن و حسین هستند. \
+`صحیح مسلم، حدیث شماره 2424` \
+`ترمذی، ج 5، ص 351` \
+`مستدرک علی الصحیحین، ج 3، ص 147`
 
-The Ahlul Bait are Ali, Fatima, Hasan and Husain. \
-`Sahih Muslim 2424` \
-`Tirmidhi, vol 5, page 351` \
-`Mustadrak ala as-Sahihain, vol 3, page 147`
+ام سلمه از رسول خدا پرسید، آیا من نیز از شما اهل بیت هستم؟ و پیامبر فرمود، تو بر مسیر خیر هستی. \
+`ترمذی، ج 5، ص 351` \
+پیامبر حقیقت را به ایشان گفت بدون اینکه احساساتش را جریحه دار کند.
 
-Umm Salama asked The Prophet (s), "Am I among you Ahlul Bait", to which he responded "You're on the path of good." \
-`Tirmidhi, vol 5, page 351`
+## صحابه
 
-## The Sahaba
+### سوره انفال، آیه 11
 
-### Surah al-Anfal, verse 11
+« از آسمان آبی فرستاد که به وسیله آن شما را پاک گرداند و پلیدی شیطان را از شما دور گرداند، و قلب های شما را محکم سازد »
 
-"He sent down rain from the sky, to purify you by it, and remove the impurity of satan, to strengthen your hearts."
+برخی می گویند که خداوند متعال صحابه را نیز مثل اهل بیت معصوم کرده است، اما این آیه، بر خلاف آین تطهیر، کلمه « فقط » را ندارد، پس پاکسازی صحابه مثل هر شخص دیگری می‌باشد و خاص نیست.
 
-Some argue that Allah is purifying the Sahaba the same way he purified The Ahlul Bait, but this verse is missing the key-word "only", which would indicate infallibility.
+### سوره توبه، آیه 100
 
-And considering that the Sahaba are not among The Ahlul Bait, the purification of the Sahaba is just like the purification of any other regular person.
+«برترین ها، اولین ها، از مهاجرین و انصار، و کسانی که به نیکی از آنها تبعیت کردند، خدا از آنها راضی است، و آنها از خدا راضی اند»
 
-### Surah at-Tauba, verse 100
+اولا، خدا بین صحابه فرق می‌گذارد و ما را مأمور به تبعیت از گروهی خاص از آنها می‌کند، که خلاف عقیده اهل سنت است که همه‌ی اصحاب چراغ هدایت اند.
 
-"The best, the first, from the Muhajirin and Ansar, and those who obeyed them well, Allah is pleased with them, and they are pleased with him."
+ثانیاً، خداوند متعال فرموده اولین ها، مشخص نیست اولین ها چه کسانی هستند، ممکن است یک نفر بگوید صد تای اول مشمول این آیه اند، ممکن است شخص دیگری بگوید ده تا اول مشمول اند، و ممکن است حتی نفر اول صحابه مد نظر باشد، با وجود جمع بودن «اولین ها» که در عربی چیز غیر ممکنی نیست.
 
-Firstly, Allah is making a distinction between some of the Sahaba, and the rest, which goes against the sunni narrative that all of the Sahaba are righteous.
+مشخص نیست این آیه چه کسانی را مشمول می‌شود، اما واضح است که خدا بین صحابه فرق می‌گذارد و ما را فقط مأمور به عده‌ای خاص می‌کند.
 
-Secondly, Allah says the first of them, we can't decide who the first ones are, one might say the first 100 are "the first", some might say the first 10, some might say just the first one, despite the usage of plural form, which is a possibility in Arabic.
+### سوره فتح، آیه 29
 
-So we don't know who this verse includes, but one thing is clear, Allah doesn't tell us to obey all of the Sahaba.
+«محمد فرستاده خدا است، و کسانی که با او هستند، با کفار سرسخت اند، و بین خود مهربان، آنها را دائما در رکوع و سجود می‌بینی، دنبال فضل و رضایت خدا هستند»
 
-### Surah al-Fat'h, verse 29
+این آیه مشخص نکرده « همراهی فیزیکی »، ممکن است همراهی معنوی مد نظر باشد. طبق حدیثی از منابع معتبر اهل سنت، همراهی فیزیکی ممکن نیست مد نظر باشد، چنانچه رسول خدا (ص) فرموده است: \
+12 نفر از صحابه من منافق اند، که 8 نفر از آنها به بهشت نخواهند رفت. \
+`صحیح مسلم، حدیث شماره 2779`
 
-"Muhammad is the messenger of Allah, and those are with him are firm with disbelievers and kind among themselves. You see them in constant ruku' and sujud, wishing a virtue from Allah and his satisfaction."
+ثانیاً، همه‌ی صحابه در رکوع و سجود دائم نبودند. خلیفه‌ی دوم گفته که اگر آب نیابم، نماز نمی‌خوانم. \
+`سنن ابی داوود، ج 1، ص 81` \
+`سنن نسائی، ج 1، ص 168` \
+`السنن الکبری، از نسائی، ج 1، ص 133` \
+`المعجم الکبیر، از طبرانی، ج 9، ص 314`
 
-Firstly, this verse does not specify physical proximity, it could be spiritual. In fact, there's evidence against the former:
+خداوند متعال می‌فرماید که اگر آب نیافتید، با خاکی پاک تیمم کنید. \
+`سوره نساء، آیه 43`
 
-"There are 12 hypocrites among my Sahaba, 8 of them will not go to heaven." \
-`Sahih Muslim 2779`
+ممکن است کسی ادعا کند که اگر آب نبود نماز واجب نیست و خواندن نماز با تیمم مستحب است. حتی اگر چنین باشد، باز هم خلیفه دوم شامل کسانی نیست که در رکوع و سجود خود دائم اند، و این صفت همراهان رسول خداست!
 
-Secondly, not all of the Sahaba were in constant ruku' and sujud:
+### سوره انفال، آیه 74
 
-Umar said that if I don't find water, I will not pray. \
-`Sunan Abi Dawud, vol 1, page 81` \
-`Sunan Nasa'i, vol 1, page 168` \
-`Sunan al-Kubra, by Nasa'i, vol 1, page 133` \
-`Al-Mu'jam al-Kubra, by Tabarani, vol 9, page 314`
+«کسانی که ایمان آوردند و هجرت کردند و در راه خدا جنگیدند، و کسانی که پناه دادند و کمک کردند، اینان مؤمنان حقیقی هستند»
 
-Allah says that if you don't find water, use clean dirt. \
-`Surah an-Nisa', verse 43`
+اولین صفتی که خداوند متعال اسم می‌برد ایمان است، که همانطور که قبلاً اشاره کردیم، شامل همه‌ی صحابه نمی‌شود: \
+12 نفر از صحابه من منافق اند، که 8 نفر از آنها به بهشت نخواهند رفت. \
+`صحیح مسلم، حدیث شماره 2779`
 
-Sure, you could say it is not required to pray if there's no water, but it still disqualifies Umar from those who are constant in their ruku' and sujud, which is the description of those who are with The Messenger of Allah (s).
+### سوره فتح، آیه 18
 
-### Surah al-Anfal, verse 74
+« خدا از مؤمنان راضی شد هنگامی که زیر درخت با تو بیعت کردند، خدا می‌داند در دل آنها چیست، پس بر آنان سکینه و آرامش نازل کرد و آنان را با پیروزی نزدیکی پاداش داد »
 
-"Those who believed, and migrated and fought in the path of Allah, and those who gave shelter and helped, they are the true believers."
+خدا در این آیه درباره مؤمنان آن واقعه صحبت می‌کند و از منافقان صحبتی به میان نیاورده. قابل توجه است که همه‌ی صحابه در این واقعه حضور نداشتند.
 
-The first quality that Allah mentioned is believing, which not all of the Sahaba had. As we mentioned before:
+# ادعا هایی علیه شیعه
 
-"There are 12 hypocrites among my Sahaba, 8 of them will not go to heaven." \
-`Sahih Muslim 2779`
+## یا حسین
 
-### Surah al-Fat'h, verse 18
+برخی می‌گویند که صدا زدن اهل بیت یعنی پرستش آنها کنار خدا، در حالی که رسول خدا به ما یاد داده است که در هر نماز او را صدا کنیم: \
+«السلام علیک ایها النبی و رحمت اللّٰه و برکاته» \
+«سلام بر تو ای پیامبر، و رحمت خدا و برکاتش» \
+`صحیح بخاری، حدیث شماره 1202`
 
-"Allah became pleased with the believers when they swore allegiance to you under the tree. Allah knows what's in their hearts, so he sent down peace onto them, and rewarded them with a victory."
+این شریک قائل شدن برای خدا نیست، چون او را به عنوان یک خدا صدا نمی‌زنیم، می‌دانیم او بنده و فرستاده‌ی خداست.
 
-Allah is talking about the believers who swore allegiance. Were there any non-believers among them? This verse does not clarify. It might also be worth noting that not all of the Sahaba were present at this event.
+سوره حمد، آیه 5: \
+«فقط تو را می‌پرستیم و فقط از تو کمک می جوییم» \
+این بدین معناست که می‌دانیم هر کمکی از سوی خداست. \
+برای مثال، یک دکتر، واسطه‌ای است بین مرض شما و شفای خدا، و کمک گرفتن از او شرک به خدا نیست، مگر اینکه او را مستقل از خدا بدانیم.
 
-# Claims against Shi'a
+بِلال، از صحابه پیامبر، به قبر پیامبر رفت و گفت: \
+ای فرستاده خدا! مردم دارند از بی آبی هلاک می‌شوند! \
+پیامبر را در خواب دید که به او مژده‌ی باران داد. \
+`مصنف، ج 11، ص 118، حدیث شماره 32538` \
+(ابن حجر و ابن کثیر و... این حدیث را تأیید کردند)
 
-## Ya Husain
+## لطمیه
 
-Some claim that calling upon The Ahlul Bait means worshipping them alongside Allah, but The Prophet (s) has taught us to call upon him in every prayer:
+بعضی افراد به بدن خود آسیب وارد می‌کنند و به خیال خود دوستداران اهل بیت اند. هر گونه آسیب به بدن حرام است! اما، کار هایی که به بدن آسیب نمی‌زند، مثل سینه‌زنی ملایم، حرام نیست، و انتخاب با شماست که در این عمل شرکت کنید یا آن ترک کنید.
 
-"Peace be upon you, O Prophet, and the mercy of Allah and his blessings." \
-`Sahih Bukhari 1202`
+## مقام ائمه
 
-Notice that it's direct speech, indirect would be "O Allah, send peace upon him". This is not shirk because we know he is not a god.
+برخی می‌گویند که در مقام اهل بیت اغراق می‌کنیم، برای مثال، برتری ائمه بر تمامی پیامبران غیر حضرت محمد (ص). در آیه مباهله، در سوره آل عمران، آیه 61، می‌بینیم: \
+« فرزندانمان را بیاوریم و فرزندان شما، و زنان ما، و زنان شما، و خودمان و خود شما »
 
-Allah says in Surah al-Fatiha, verse 5: \
-"We only worship you, and seek help from you." \
-This verse means that we know every help is by the power of Allah. For example, a doctor is a middleman between your disease and the healing from Allah, and this is okay as long as you don't consider the doctor independent from Allah.
+پیامبر حضرات علی، فاطمه، حسن و حسین را آورد. \
+`سنن ترمذی، حدیث شماره 2999` \
+`تفسیر دُرّ المنثور، ج 2، ص 231 و 233`
 
-Bilal went to the grave of The Prophet (s) and said: \
-O Messenger of Allah! The people are perishing from the lack of water! \
-So The Prophet (s) came to him in a dream and gave news of rain. \
-`Musannaf, vol 11, page 118, hadith 32538` \
-(Confirmed by Ibn Kathir, Ibn Hajar, etc.)
+حسن و حسین «فرزندانمان»، \
+فاطمه «زنانمان»، \
+اما علی چه؟ او نه فرزند رسول خداست و نه از زنان، \
+به درستی که او «خود» رسول خداست!
 
-## Latmiya
+اگر پیامبر ما بر سایر پیامبران برتری دارد، « خود » او نیز بر پیامبران قبلی برتر است! \
+اما اگر علی چنین با فضیلت است، چرا خدا او را از پیامبران قرار نداده است؟ مقام امامت بالاتر از مقام پیامبری است، خداوند متعال در سوره بقره، آیه 124 می فرماید:
 
-Some people hurt themselves to "honor" The Ahlul Bait. This is absolutely haram. These people are a disgrace to The Ahlul Bait! However, acts that do not cause harm, like lightly beating on your chest, this is not haram, and it's your choice to engage in it or to leave it.
+« خدا ابراهیم را با اموری امتحان کرد و او در همه‌ی آنها سربلند شد، پس خدا گفت: قطعا تو را برای مردم امام قرار می‌دهم »
 
-## Rank of the Imams
+## قدرت ائمه
 
-Some say that we exaggerate the rank of The Ahlul Bait, such as The Imams being superior to every prophet except Muhammad (s). Let's take a look at this part of the verse of Mubahala, in Surah Aal Imran, verse 61:
+ادعای دیگری این است که قدرت خاص اهل بیت اغراق است. در آیات 38 تا 40 سوره نمل می‌بینیم که سلیمان از اطرافیانش پرسید که چی کسی می‌تواند تخت پادشاهی ملکه‌ای را بیاورد که داشت می‌آمد که سلیمان را ببیند، یک نفر از جنیان گفت که من آن را برای تو می‌آورم قبل از اینکه از جایت بلند شوی، اما مردی که علمی از کتاب داشت گفت من آن را برای تو می‌آورم قبل از اینکه بتوانی پلک بزنی!
 
-"Bring our sons, and your sons, and our women and your women, and ourselves and yourselves."
+آیه 40: \
+«کسی که علمی از کتاب داشت گفت: من آن را قبل از اینکه بتوانی پلک بزنی برای تو می آورم»
 
-The Prophet (s) took Ali, Fatima, Hasan and Husain with him. \
-`Sunan Tirmidhi 2999` \
-`Tafsir Durr ul-Manthur, vol 2, page 231 & 233`
+این مرد علمی از کتاب داشت، نه علم همه‌ی کتاب، و می‌توانست چنین کاری کند. پیامبر ما که کل علم الکتاب نزد اوست نمی‌تواند؟ و یا «خود» او، علی؟
 
-Hasan and Husain were "our sons", Fatima was "our women", but what about Ali? He was neither a son of The Prophet (s) nor his "women", indeed, he was "ourselves". He was the self of The Prophet of Allah (s). If The Prophet (s) is better than any other prophet, then so is his "self", Ali. But you might wonder, if he was so virtuous, why didn't Allah make him a prophet? That's because a prophet is someone who completes what prophets before him have brought, and there was no imperfection in the religion of our beloved Prophet (s). Allah blessed Ali with the rank of an "Imam", which is higher than the rank of prophethood. In verse 124 of Surah al-Baqara, we see that Ibrahim was promoted from the rank of a prophet, to an Imam:
+## آیا علی به نام خلفا نام‌گذاری کرد؟
 
-"Ibrahim was tested by his lord with certain commandments, which he fulfilled, Allah said, surely, I will make you an Imam for the people."
+« ابوبکر » کنیه است، نوعی لقب، نه اسم! \
+خلیفه اول، نامش عبداللّٰه بود، و ابوبکر پسر علی، نامش محمد اصغر بود.
 
-## Power of the Imams
+خلیفه دوم نام بسیاری از مردم را تغییر می‌داد، برای مثال ابراهیم بن حارث را «عبداللّٰه» نامید، و اجدع بن مالک را «عبدالرحمن» نامید. \
+`الاصابه فی تمییز الصحابه، از ابن حجر، ج 1، ص 330` \
+خلیفه دوم نام یکی از فرزندان علی را «عمر» گذاشت. \
+`سیر اعلام النبلاء، ج 4، ص 134` \
+حتی اگر نمی‌دانستیم که این خلیفه دوم بود که نام او را تغییر داد، باز هم نمیشد ادعا کرد که علی از روی محبت خلیفه او را چنان نامیده، حداقل 21 نفر از صحابه نامشان «عمر» بوده، از کجا معلوم علی از محبت کدام یک از آنان چنین کرده؟ \
+`الاصابه فی تمییز الصحابه، از این حجر، ج 4، ص 483`
 
-Another claim is that The Ahlul Bait having certain powers is an exaggeration. In verses 38 to 40 of Surah an-Naml we see that prophet Sulaiman asked those who were with him, who can bring him the throne of a queen who was on her way to meet him, before she arrives. A jinn said that he can do it before he gets up from his seat, but a man who had some knowledge of the book said I'll bring it before you can blink!
+علی نام یکی از پسرانش را «عثمان» گذاشت، از روی عشق و علاقه به «عثمان بن مظعون» که از شهدای جنگ بدر بود و در زمان پیامبر از دنیا رفت. \
+`تاریخ مدینه دمشق، ج 45، ص 304` \
+حتی اگر علت این نام‌گذاری را نمی‌دانستیم باز هم نمیشد ادعا کرد که علی از روی محبت خلیفه او را چنان نامیده، حداقل 26 نفر از صحابه نامشان «عثمان» بوده، از کجا معلوم علی از محبت کدام یک از آنان چنین کرده؟ \
+`الاصابه فی تمییز الصحابه، ج 4، ص 370`
 
-Verse 40: \
-"A person who had a knowledge from the book said: I will bring it to you before you can blink."
+# حقانیت شیعه
 
-This person had some knowledge of the book, now, can't The Prophet (s) do this when he has the full knowledge of the book? Or his self, Ali?
+[همانطور که نشان دادیم](#)، فاطمه معصوم است. و حتی اگر عصمت او را نمی‌پذیرید، احادیثی درباره‌ی اطاعت او موجود است.
 
-## Did Ali name after caliphs?
+فاطمه از اهل بیت است. \
+`صحیح مسلم، حدیث شماره 2424`
 
-"Abu Bakr" is a kunia, not a name. The name of Abu Bakr ibn Abu Quhafa is Abdullah ibn Uthman. And the name of Abu Bakr ibn Ali is Muhammad Asghar.
+رسول خدا (ص) فرمودند: \
+من بین شما دو چیز به جا می‌گذارم، که اگر خود را به آن دو بچسبانید، بعد من گمراه نمی شود، یکی از آنها برتر از دیگری است، کتاب خدا و اهل بیتم، و این دو از هم جدا نمی‌شوند تا اینکه با من ملاقات کنند، پس نگاه کنید بعد از من با آن دو چطور رفتار می‌کنید! \
+`ترمذی، حدیث شماره 3788` (صحیح)
 
-Umar used to rename a lot of people. He renamed "Ibrahim ibn Haarith" to Abdullah and "Ajda' ibn Maalik" to Abdurrahmaan. \
-`Al-Isabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 1, page 330` \
-Umar renamed one of Ali's children to "Umar". \
-`Siyar A'lam an-Nubala, vol 4, page 134` \
-Even if we didn't know that it was Umar who renamed him, we still couldn't claim he was named out of love for the second caliph, as there were at least 21 "Umar"s among the Sahaba! \
-`Al-Isabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 4, page 483`
+رسول خدا (ص) به فاطمه فرمودند: \
+خدا با خشم تو خشمگین می‌شود و با رضایت تو راضی می‌شود. \
+`مستدرک علی الصحیحین، ج 3، ص 154` \
+چنین چیزی به شرطی ممکن است که فاطمه از هرگونه خطا در قضاوت محفوظ باشد.
 
-Ali named his son "Uthman" out of love "Uthman ibn Madh'un" who was killed in the battle of Badr during the lifetime of The Prophet (s). \
-`Tarikh Madina Damishq, vol 45, page 304` \
-Even if we didn't know that he was named after Ibn Madh'un, we still couldn't claim he was named out of love for the third caliph, as there were at least 26 "Uthman"s among the Sahaba! \
-`Al-Isabah fi Tamyeez as-Sahaba, vol 4, page 370`
+فاطمه از ابوبکر خشمگین شد و تا آخر عمر خود با او صحبت نکرد، و شبانه دفن شد بدون اینکه ابوبکر خبر دار شود. \
+`صحیح بخاری، حدیث شماره 3092، 3093، 4240 و 4241`
 
-# An argument for Shi'a
+برخی ادعا می‌کنند که فاطمه قبل از وفات از ابوبکر راضی شد، که خلاف حرف صریح بخاری است! هر کس با منابع اهل سنت آشنا باشد می‌داند که اگر حدیثی مخالف مطالب بخاری و مسلم باشد، اهل سنت بخاری و مسلم را ترجیح می‌دهند.
 
-[As we established before](#surah-al-ahzab-verse-33), Fatima is infallible, and even if you disagree with that, there are still hadiths that show we should obey her:
+برخی ادعا می‌کنند که اول علی فاطمه را خشمگین کرد. چنین چیزی دروغی بیش نیست. ما برای اثبات ادعا خویش به منابع خود اهل سنت استناد می‌کنیم، و کسی که علیه شیعه ادعایی می‌کند باید به حدیث صحیحی از منابع ما استناد کند.
 
-Fatima is from The Ahlul Bait. \
-`Sahih Muslim 2424`
+فاطمه زهرا اولین رافضی است (کسی که ابوبکر را نمی‌پذیرد) و ما شیعیان و پیروان او هستیم، همانطور که پیامبر ما را مأمور کرده.
 
-The Messenger of Allah (s) said: \
-Indeed, I leave among you, that which if you stick to, you will not go astray after me, one is greater than the other, the book of Allah, and my Ahlul Bait, and they will not split from each other until they meet me, so beware of how you treat the two of them after me. \
-`Tirmidhi 3788` (Grade: Sahih)
+حدیث ذکر شده به دروغ می‌گوید که بعد وفات فاطمه، علی با ابوبکر بیعت کرد، چنین چیزی به آسانی قابل رد است. در صحیح مسلم، حدیث شماره 1757 ج، می‌بینیم که خلیفه دوم می‌گوید:
 
-The Prophet (s) told Fatima: \
-‎Allah is angered by your anger, and satisfied by your satisfaction. \
-`‎Mustadrak, vol 3, page 154` \
-This is only possible if she is immune to misjudgements.
+فرستاده خدا از دنیا رفت، و ابوبکر گفت من جانشین پیامبر هستم، پس شما نزد او آمدید برای طلب ارث، و او نپذیرفت، پس تصور کردید که او دروغگو، گناهکار، حیله‌گر، و خائن است، و خدا می‌داند که او راستگو، پاک، هدایت شده، و پیرو حق است. سپس ابوبکر از دنیا رفت، و من (عمر) جانشنین فرستاده خدا هستم و جانشین ابوبکر، پس شما تصور کردید که من دروغگو، گناهکار، حیله‌گر، و خائن هستم، و خدا می‌داند که من راستگو، پاک، هدایت شده، و پیرو حق هستم.
 
-She did not approve of Abu Bakr:
+در همین حدیث هم باز جعل کردند و گفتند علی بالاخره این بار با خلیفه دوم موافقت کرد. صحیح بخاری می‌گوید که علی با ابوبکر بیعت کرد، و صحیح مسلم می‌گوید که حتی در زمان عمر، که ابوبکر از دنیا رفته بود، علی هنوز هم چنین تصوری از آن دو داشت. چنین تناقض هایی یعنی بخاری و مسلم صحت ندارند.
 
-Fatima was angered by Abu Bakr and did not speak to him again until she died and she was buried secretly at night without informing Abu Bakr. \
-`Sahih Bukhari, 3092, 3093, 4240, 4241`
+و وقتی خلیفه سوم، عثمان، به خلافت رسید، فدک، که مثلا صدقه‌ی پیامبر بود را به پسر عموی خود مروان هدیه کرد! \
+`السنن الکبری، از بیهقی، ج 6، ص 301` \
+`تاریخ ابوالفداء، ج 1، ص 168`
 
-Some sources claim that Fatima became pleased with Abu Bakr before her death, but that goes against the explicit word of Bukhari!
-
-Some claim that Ali angered Fatima as well, but that's a mere fabrication. When we Shi'as want to make you believe something, we will show you your own sources, so if you want to claim that Ali angered Fatima, show us a **sahih** narration from our books :)
-
-Sayyida Fatima is the first Rafidhi (rejector of Abu Bakr), and we are her followers, as The Prophet of Allah (s) told us to.
-
-The aforementioned narrations contain a fabrication about Ali swearing allegiance to Abu Bakr after the death of Fatima, this can be disproved easily, in Sahih Muslim 1757c we see:
-
-The Messenger of Allah (s) passed away, and Abu Bakr said I am the successor of The Messenger of Allah (s) so you came to him to request inheritance, and he rejected, you saw him as lying, sinful, deceiving, traitor, but Allah knows that he was a truthful, pure, guided, follower of truth, then Abu Bakr died and I (Umar) am the successor of The Messenger of Allah (s) and the successor of Abu Bakr, so you saw me as a lying, sinful, deceiving, traitor, but Allah knows that I am a truthful, pure, guided, follower of truth.
-
-And again, they fabricated about Ali agreeing with Umar. Sahih Bukhari says Ali swore allegiance to Abu Bakr, and Sahih Muslim says that Ali still saw the two of them as lying, sinful, deceiving, traitors at the time of Umar! Abu Bakr was dead at the time of Umar and Ali still considered the both of them that way! And then he supposedly changed his mind... Such contradictions show that Bukhari and Muslim have no authority.
-
-And then when Uthman became the caliph, he GIFTED what was supposed to be the charity of our Prophet (s) to his cousin Marwan. \
-`As-Sunan al-Kubra, by Bayhaqi, vol 6, page 301` \
-`Tarikh Abul Fada', vol 1, page 168`
-
-You might wonder, why didn't Ali take it back when he became the caliph? The Messenger of Allah (s) did not take back what was stolen from the muslims when he conquered Mecca, and Ali did not take back what was stolen from his family when he reclaimed caliphate. Imam Kadhim says we are a family that avenge the people, not ourselves, Allah avenges us.
+سؤال پیش می‌آید که چرا علی وقتی به خلافت رسید فدک را پس نگرفت؟ رسول خدا (ص) وقتی مکه را فتح کرد آن اموالی را که از مسلمانان دزدیده شده بود پس نگرفت، و علی نیز وقتی خلافت را پس گرفت، اموال دزدیده شده از خانواده خود را پس نگرفت.
