@@ -221,9 +221,9 @@ Sayyida Fatima is the first Rafidhi (rejector of Abu Bakr), and we are her follo
 
 The aforementioned narrations contain a fabrication about Ali swearing allegiance to Abu Bakr after the death of Fatima, this can be disproved easily, in Sahih Muslim 1757c we see:
 
-The Messenger of Allah (s) passed away, and Abu Bakr said I am the successor of The Messenger of Allah (s) so you came to him to request inheritance, and he rejected, you saw him as lying, sinful, deceiving, traitor, but Allah knows that he was a truthful, pure, guided, follower of truth, then Abu Bakr died and I (Umar) am the successor of The Messenger of Allah (s) and the successor of Abu Bakr, so you saw me as a lying, sinful, deceiving, traitor, but Allah knows that I am a truthful, pure, guided, follower of truth.
+The Messenger of Allah (s) passed away, and Abu Bakr said I am the successor of The Messenger of Allah (s) so you (Ali and Abbas) came to him to request inheritance, and he rejected, you saw him as a lying, sinful, deceitful, traitor, but Allah knows that he was a truthful, pure, guided, follower of truth, then Abu Bakr died and I (Umar) am the successor of The Messenger of Allah (s) and the successor of Abu Bakr, so you saw me as a lying, sinful, deceitful, traitor, but Allah knows that I am a truthful, pure, guided, follower of truth. Umar then asked if this is really how he thought of them, and Ali confirmed.
 
-And again, they fabricated about Ali agreeing with Umar. Sahih Bukhari says Ali swore allegiance to Abu Bakr, and Sahih Muslim says that at the time of Umar, when Abu Bakr was dead, Ali still saw the two of them as lying, sinful, deceiving, traitors! And then he supposedly changed his mind... Such contradictions show that Bukhari and Muslim have no authority.
+And again, they fabricated about Ali changing his mind to agree with Umar. Sahih Bukhari says Ali pledged allegiance to Abu Bakr, and Sahih Muslim says that at the time of Umar, when Abu Bakr was dead, Ali still saw the two of them as lying, sinful, deceitful, traitors! And then he supposedly changed his mind... Such contradictions show that Bukhari and Muslim have no authority.
 
 And then when Uthman became the caliph, he GIFTED what was supposed to be the charity of our Prophet (s) to his cousin Marwan. \
 `As-Sunan al-Kubra, by Bayhaqi, vol 6, page 301` \
