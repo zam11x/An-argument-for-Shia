@@ -60,7 +60,7 @@ There is no Quran-based evidence of them repenting or not repenting.
 
 Allah wants everyone to be purified, that's why he sent so many prophets, teaching people to live beautiful lives, so when he says he ONLY wants The Ahlul Bait to be purified, he's talking about a special purification, "infallibility". If you deny the infallibility of The Ahlul Bait, you're saying Allah sent so many prophets for no reason, which goes against the wisdom of Allah.
 
-The Quran itself shows that the infallible Ahlul Bait are not the wives. Surah al-Ahzab is "makki", meaning it was revealed before hijra, Surah at-Tahreem is "madani", meaning it was revealed after hijra, in the latter surah, Allah tells two of the wives that their wives have swayed (verse 4), which is not a possibility for someone who became infallible before the hijra. The Quran does not name The Ahlul Bait, but sahih hadiths do:
+The Quran itself shows that the infallible Ahlul Bait are not the wives. Surah al-Ahzab is "makki", meaning it was revealed before hijra, Surah at-Tahreem is "madani", meaning it was revealed after hijra, in the latter surah, Allah tells two of the wives that their hearts have swayed (verse 4), which is not a possibility for someone who became infallible before the hijra. The Quran does not name The Ahlul Bait, but sahih hadiths do:
 
 The Ahlul Bait are Ali, Fatima, Hasan and Husain. \
 `Sahih Muslim 2424` \
