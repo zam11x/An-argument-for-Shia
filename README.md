@@ -52,7 +52,7 @@ They are only the best of women if they fear Allah. Is it possible for them to n
 "(It's better) if you two repent, as your hearts have swayed, and if you aid (each other) against him, then Allah is his aid and Jibreel and the righteous of believers, and thereafter the angels."
 
 The Quran doesn't say if they repented or not, but we have been informed by The Prophet (s) about the best of women, they are: Aasia, Mariam, Khadija, and Fatima. \
-`Musnad Ahmad, vol 4, page 409, hadith 2268` \
+`Musnad Ahmad, vol 4, page 409` \
 Only one of them is from the wives of The Prophet (s).
 
 ### Surah al-Ahzab, verse 33
