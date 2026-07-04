@@ -59,9 +59,9 @@ Only one of them is from the wives of The Prophet (s).
 
 "Allah ONLY wants to remove impurity from you O Ahlul Bait, and purify you thoroughly."
 
-Allah wants everyone to be purified, that's why he sent so many prophets, teaching people to live beautiful lives, so when he says he ONLY wants The Ahlul Bait to be purified, he's talking about a special purification, "infallibility". If you deny the infallibility of The Ahlul Bait, you're saying Allah sent so many prophets for no reason, which goes against the wisdom of Allah...
+Allah wants everyone to be purified, that's why he sent so many prophets, teaching people to live beautiful lives, so when he says he ONLY wants The Ahlul Bait to be purified, he's talking about a special purification, "infallibility". If you deny the specialty of the purification of The Ahlul Bait, you're denying the wisdom of Allah, did he send so many prophets, just to tell a small group "I only wanted to purify you"?
 
-The Quran itself shows that the infallible Ahlul Bait cannot be the wives. Surah al-Ahzab is "makki", meaning it was revealed before hijra, Surah at-Tahreem is "madani", meaning it was revealed after hijra, in Surah at-Tahreem, Allah tells two of the wives that their hearts have swayed (verse 4), which is not a possibility for someone who became infallible before the hijra. If we say the infallible Ahlul Bait are the wives, then that means The Quran is contradicting itself! The Quran does not name The Ahlul Bait, but sahih hadiths do:
+The Quran itself shows that the infallible Ahlul Bait cannot be the wives. Surah al-Ahzab is "makki", meaning it was revealed before hijra, Surah at-Tahreem is "madani", meaning it was revealed after hijra, in Surah at-Tahreem, Allah tells two of the wives that their hearts have swayed (verse 4), which is not a possibility for someone who became infallible before the hijra. If we say the infallible Ahlul Bait are the wives, then that means The Quran is contradicting itself! They cannot be the wives. The Quran does not name The Ahlul Bait, but sahih sunni hadiths do:
 
 The Ahlul Bait are Ali, Fatima, Hasan and Husain. \
 `Sahih Muslim 2424` \
