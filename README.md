@@ -56,11 +56,11 @@ There is no Quran-based evidence of them repenting or not repenting.
 
 ### Surah al-Ahzab, verse 33
 
-"Allah wishes to ONLY remove impurity from you O Ahlul Bait, and purify you thoroughly."
+"Allah ONLY wants to remove impurity from you O Ahlul Bait, and purify you thoroughly."
 
 Allah wants everyone to be purified, that's why he sent so many prophets, teaching people to live beautiful lives, so when he says he ONLY wants The Ahlul Bait to be purified, he's talking about a special purification, "infallibility". If you deny the infallibility of The Ahlul Bait, you're saying Allah sent so many prophets for no reason, which goes against the wisdom of Allah...
 
-The Quran itself shows that the infallible Ahlul Bait cannot be the wives. Surah al-Ahzab is "makki", meaning it was revealed before hijra, Surah at-Tahreem is "madani", meaning it was revealed after hijra, in the latter surah, Allah tells two of the wives that their hearts have swayed (verse 4), which is not a possibility for someone who became infallible before the hijra. If we say the infallible Ahlul Bait are the wives, then that means The Quran is contradicting itself! The Quran does not name The Ahlul Bait, but sahih hadiths do:
+The Quran itself shows that the infallible Ahlul Bait cannot be the wives. Surah al-Ahzab is "makki", meaning it was revealed before hijra, Surah at-Tahreem is "madani", meaning it was revealed after hijra, in Surah at-Tahreem, Allah tells two of the wives that their hearts have swayed (verse 4), which is not a possibility for someone who became infallible before the hijra. If we say the infallible Ahlul Bait are the wives, then that means The Quran is contradicting itself! The Quran does not name The Ahlul Bait, but sahih hadiths do:
 
 The Ahlul Bait are Ali, Fatima, Hasan and Husain. \
 `Sahih Muslim 2424` \
@@ -183,7 +183,7 @@ This person had some knowledge of the book, now, can't The Prophet (s) do this w
 
 ## Did Ali name after caliphs?
 
-"Abu Bakr" is a kunia, not a name. The name of Abu Bakr ibn Abu Quhafa is Abdullah ibn Uthman. And the name of Abu Bakr ibn Ali is Muhammad Asghar.
+"Abu Bakr" is a kunia, not a name. The name of Abu Bakr ibn Abu Quhafa is Abdullah ibn Uthman. And the name of Abu Bakr ibn Ali is Muhammad Asghar. Kunias are chosen by oneself, so it was not Ali who called him Abu Bakr.
 
 Umar used to rename a lot of people. He renamed "Ibrahim ibn Haarith" to Abdullah and "Ajda' ibn Maalik" to Abdurrahmaan. \
 `Al-Isabah fi Tamyeez as-Sahaba, by Ibn Hajar, vol 1, page 330` \
