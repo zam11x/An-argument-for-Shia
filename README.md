@@ -123,9 +123,9 @@ The first quality that Allah mentioned is believing, which not all of the Sahaba
 
 ### Surah al-Fat'h, verse 18
 
-"Allah became pleased with the believers when they swore allegiance to you under the tree. Allah knows what's in their hearts, so he sent down peace onto them, and rewarded them with a victory."
+"Allah was pleased with the believers when they pledged allegiance to you under the tree. Allah knows what's in their hearts, so he sent down peace onto them, and rewarded them with a victory."
 
-Allah is talking about the believers who swore allegiance. Were there any non-believers among them? This verse does not clarify. It might also be worth noting that not all of the Sahaba were present at this event.
+Allah is talking about the believers who pledged allegiance. Were there any non-believers among them? This verse does not clarify. It might also be worth noting that not all of the Sahaba were present at this event.
 
 # Claims against Shi'a
 
