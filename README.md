@@ -163,7 +163,12 @@ The Prophet (s) took Ali, Fatima, Hasan and Husain with him. \
 `Sunan Tirmidhi 2999` \
 `Tafsir Durr ul-Manthur, vol 2, page 231 & 233`
 
-Hasan and Husain were "our sons", Fatima was "our women", but what about Ali? He was neither a son of The Prophet (s) nor his "women", indeed, he was "ourselves". He was the self of The Prophet of Allah (s). If The Prophet (s) is better than any other prophet, then so is his "self", Ali. But you might wonder, if he was so virtuous, why didn't Allah make him a prophet? Allah blessed Ali with the rank of an "Imam", which is higher than the rank of prophethood. In verse 124 of Surah al-Baqara, we see that Ibrahim was promoted from being just a prophet, to also being an Imam:
+Hasan and Husain were "our sons", Fatima was "our women", but what about Ali? He was neither a son of The Prophet (s) nor his "women", indeed, he was "ourselves". He was the self of The Prophet of Allah (s).
+
+Jabir ibn Abdullah, a Sahabi, says that "ourselves" means The Prophet (s) and Ali. \
+`Tafsir Ibn Kathir, vol 2, page 55`
+
+If The Prophet (s) is better than any other prophet, then so is his "self", Ali. But you might wonder, if he was so virtuous, why didn't Allah make him a prophet? Allah blessed Ali with the rank of an "Imam", which is higher than the rank of prophethood. In verse 124 of Surah al-Baqara, we see that Ibrahim was promoted from being just a prophet, to also being an Imam:
 
 "Ibrahim was tested by his lord with certain commandments, which he fulfilled, Allah said, surely, I will make you an Imam for the people."
 
