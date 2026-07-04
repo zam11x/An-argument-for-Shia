@@ -210,7 +210,7 @@ Indeed, I leave among you, that which if you stick to, you will not go astray af
 
 The Prophet (s) told Fatima: \
 ‎Allah is angered by your anger, and satisfied by your satisfaction. \
-`‎Mustadrak, vol 3, page 154` \
+`‎Mustadrak ala as-Sahihain, vol 3, page 154` \
 This is only possible if she is immune to misjudgements.
 
 She did not approve of Abu Bakr:
