@@ -78,7 +78,7 @@ The Prophet (s) told her the truth without hurting her feelings.
 
 "He sent down rain from the sky, to purify you by it, and remove the impurity of satan, to strengthen your hearts."
 
-Some claim that Allah is purifying the Sahaba the same way he purified The Ahlul Bait, but this interpretation contradicts [Surah al-Ahzab, verse 33](#surah-al-ahzab-verse-33), which means the purification of the Sahaba is just like the purification of any regular person.
+Some say that Allah is purifying the Sahaba the same way he purified The Ahlul Bait, but this interpretation contradicts [Surah al-Ahzab, verse 33](#surah-al-ahzab-verse-33), which means the purification of the Sahaba is just like the purification of any regular person.
 
 ### Surah at-Tauba, verse 100
 
