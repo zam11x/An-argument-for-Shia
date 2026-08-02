@@ -231,6 +231,6 @@ And again, they fabricated about Ali changing his mind to agree with Umar. Sahih
 
 And then when Uthman became the caliph, he GIFTED what was supposed to be the charity of our Prophet (s) to his cousin Marwan. \
 `As-Sunan al-Kubra, by Bayhaqi, vol 6, page 301` \
-`Tarikh Abul Fada', vol 1, page 168`
+`Tarikh Abul Fida, vol 1, page 168`
 
-You might wonder, why didn't Ali take it back when he became the caliph? The Messenger of Allah (s) did not take back what was stolen from the muslims when he conquered Mecca, and Ali did not take back what was stolen from his family when he reclaimed caliphate.
+You might wonder, why didn't Ali take it back when he became the caliph? Just as The Messenger of Allah (s) did not take back what was stolen from the muslims when he conquered Mecca, Ali did not take back what was stolen from his family when he reclaimed caliphate.
